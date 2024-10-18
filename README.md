@@ -9,7 +9,7 @@
 
 - 🧑‍💻 I'm a backend engineer.
 - 🌱 I’m currently learning go!
-- 📫 How to reach me: [Twitter - @username](https://twitter.com/username)
+- 📫 How to reach me: [Qiira - ituki1216]((https://qiita.com/ituki1216))
 <br>
 
 
