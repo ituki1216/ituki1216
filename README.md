@@ -1,7 +1,7 @@
 <div align="right">
   <img src="https://komarev.com/ghpvc/?username=ituki1216" />
 </div>
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there
 
 - 🧑‍💻 I'm a backend engineer.
 - 📫 How to reach me: [Qiita - ituki1216](https://qiita.com/ituki1216)
