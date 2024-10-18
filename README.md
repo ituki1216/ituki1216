@@ -1,6 +1,5 @@
-<div align="right">
-  <img src="https://komarev.com/ghpvc/?username=ituki1216" />
-</div>
+
+<img src="https://komarev.com/ghpvc/?username=ituki1216" />
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there
 
 - 🧑‍💻 I'm a backend engineer.
