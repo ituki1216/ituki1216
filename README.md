@@ -1,13 +1,37 @@
-### Hi there 👋
+<!-- 1. GitHub ユーザー名を変更 -->
+<div align="right">
+  <img src="https://komarev.com/ghpvc/?username=NonokaM" />
+</div>
 
-<img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KakutaAtsushi&layout=compact&show_icons=true&theme=cobalt" />
-<img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=KakutaAtsushi&theme=cobalt&show_icons=ture" />
 
-  [![trophy](https://github-profile-trophy.vercel.app/?username=KakutaAtsushi&title=Stars,Repository,MultiLanguage,Commits,Issue,PullRequest&theme=cobalt)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- 2. プロフィールや連絡先を変更 -->
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there
+
+- 🧑‍💻 I'm a backend engineer.
+- 🌱 I’m currently learning go!
+- 📫 How to reach me: [Twitter - @username](https://twitter.com/username)
+<br>
+
+
+<!-- 3. 好きな技術スタックに変更 -->
+<!-- ライトモート：theme=light, ダークモート：theme=dark -->
+<!-- アイコンの選択肢一覧：https://arc.net/l/quote/zizyykfh -->
+## 🌱 Skills
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,ts,react,next,figma,python,fastapi,go,docker,terraform,aws,gcp" />
+<br>
+
+
+<!-- 4. GitHub ユーザー名を変更, 2箇所 -->
+<!-- ライトモート：theme=light, ダークモート：theme=vue-dark  -->
+## 🏃‍♀️ Activities
+<div align="left"> 
+  <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api?username=NonokaM&theme=vue-dark&layout=compact" />
+  <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NonokaM&theme=vue-dark&layout=compact" />
+</div>
 
 
 <!--
-**KakutaAtsushi/KakutaAtsushi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This repository is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
