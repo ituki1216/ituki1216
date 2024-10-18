@@ -7,12 +7,11 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there
 
 - 🧑‍💻 I'm a backend engineer.
-- 🌱 I’m currently learning Go!
 - 📫 How to reach me: [Qiita - ituki1216](https://qiita.com/ituki1216)
 <br>
 
 <!-- 3. 好きな技術スタックに変更 -->
-## 🌱 Skills
+## 💻 Skills
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,python,js,docker,php,laravel,react" />
 <br>
 
