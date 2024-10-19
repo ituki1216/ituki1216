@@ -5,7 +5,8 @@
 <br>
 
 ## 💻 Skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,python,js,typescript, css, docker,php,laravel,react" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,bootstrap,react,typescript,python,php,laravel,docker" />
+
 <br>
 
 ## 🏃‍♀️ Activities
