@@ -1,4 +1,5 @@
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there
+![](https://github-readme-stats.vercel.app/api?username=ituki1216&show_icons=true&theme=radical)
 
 - 🧑‍💻 I'm a backend engineer.
 - 📫 How to reach me: [Qiita - ituki1216](https://qiita.com/ituki1216)
