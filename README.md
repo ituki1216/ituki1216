@@ -11,6 +11,7 @@
 
 ## 🏃‍♀️ Activities
 <div align="left"> 
-  <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api?username=ituki1216&theme=vue-dark&layout=compact" />
-  <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ituki1216&theme=vue-dark&layout=compact" />
+  <img alt="GitHub Stats" height="170px" src="https://github-readme-stats.vercel.app/api?username=ituki1216&show_icons=true&theme=radical" />
+  <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ituki1216&theme=vue-dark&layout=compact" />
 </div>
+
