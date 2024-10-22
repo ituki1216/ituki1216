@@ -2,8 +2,6 @@
 
 - 🧑‍💻 I'm a backend engineer.
 - 📫 How to reach me: [Qiita - ituki1216](https://qiita.com/ituki1216)
-<br>
-
 ## 💻 Skills
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,bootstrap,react,typescript,python,php,laravel,docker" />
 <br>
