@@ -1,17 +1,15 @@
-<p align="left">
-  <a href="https://github.com/ituki1216">
-    <img height="20" src="https://komarev.com/ghpvc/?username=ituki1216" />
-  </a>
-  <a href="https://github.com/ituki1216">
-    <img height="20" src="https://img.shields.io/github/followers/ituki1216?label=follow&logo=github&style=flat" />
-  </a>
-  <a href="http://qiita.com/ituki_1216">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/ituki_1216/posts.svg" />
-  </a>
-  <a href="http://qiita.com/ituki_1216">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/ituki_1216/contributions.svg" />
-  </a>
-  <a href="https://zenn.dev/ituki_1216">
-    <img height="20" src="https://badgen.org/img/zenn/ituki_1216/articles?style=plastic" />
-  </a>
-</p>
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there
+
+- 🧑‍💻 I'm a backend engineer.
+- 📫 How to reach me: [Qiita - ituki1216](https://qiita.com/ituki1216)
+<br>
+
+## 💻 Skills
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,bootstrap,react,typescript,python,php,laravel,docker" />
+<br>
+
+## 🏃‍♀️ Activities
+<div align="left"> 
+  <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api?username=ituki1216&theme=vue-dark&layout=compact" />
+  <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ituki1216&theme=vue-dark&layout=compact" />
+</div>
