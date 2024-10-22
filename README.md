@@ -1,18 +1,17 @@
-Hi! :wave: Welcome to my GitHub! 😊
+# 🎄 Merry Christmas! 🎅 Welcome to my GitHub! 😊
 
-Profile 🤴
+## Profile 🤴
 
- Language
-- JavaScript | Python |  | TypeScript | Go | PHP
+### Language
+- JavaScript | Python | TypeScript | Go | PHP
 
-Framework
+### Framework
 - Flask | Django | Laravel 
 
-Others
-- GitHub Actions | GitHub | Git | Docker 
+### Others
+- GitHub Actions | Git | Docker 
 
-
- Stats :chart_with_upwards_trend:
+## Stats :chart_with_upwards_trend:
 ![](https://raw.githubusercontent.com/ituki1216/ituki1216/output/github-contribution-grid-snake.svg)
 
 <p align="left">
@@ -20,7 +19,7 @@ Others
     <img height="20" src="https://komarev.com/ghpvc/?username=ituki1216" />
   </a>
   <a href="https://github.com/ituki1216">
-    <img height="20" src="https://img.shields.io/github/followers/ituki1216?label=follow&logo=github&style=flat" />
+    <img height="20" src="https://img.shields.io/github/followers/ituki1216?label=Follow Me!&logo=github&style=flat" />
   </a>
   <a href="http://qiita.com/ituki_1216">
     <img height="20" src="https://qiita-badge.apiapi.app/s/ituki_1216/posts.svg" />
@@ -39,5 +38,5 @@ Others
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ituki1216&theme=gruvbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ituki1216&theme=gruvbox&utcOffset=9)
 
-Trophy :trophy:
+## Trophy :trophy:
 ![trophy](https://github-profile-trophy.vercel.app/?username=ituki1216&theme=gruvbox)
