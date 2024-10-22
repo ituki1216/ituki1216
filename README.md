@@ -1,29 +1,17 @@
-# Hi! :wave: Welcome to my GitHub! 😊
+ Hi! :wave: Welcome to my GitHub! 😊
 
-## Profile 🤴
-### Language
-- Java | Ruby | JavaScript | TypeScript | Go | PHP
+Profile 🤴
+ Language
+- JavaScript | Python |  | TypeScript | Go | PHP
 
-### Framework
-- Ruby on Rails
-- Next.js
-- Gin
-- Spring Framework
-- Apache Struts2
+Framework
+- Flask | Django | Laravel 
 
-### Library
-- React
-- Bootstrap
-- Tailwind CSS
+Others
+- GitHub Actions | GitHub | Git | Docker 
 
-### Others
-- AWS (EC2, RDS)
-- GitHub Actions
-- Google App Script
-- discord.js
-- ChatGPT-API
 
-## Stats :chart_with_upwards_trend:
+ Stats :chart_with_upwards_trend:
 ![](https://raw.githubusercontent.com/ituki1216/ituki1216/output/github-contribution-grid-snake.svg)
 
 <p align="left">
@@ -50,5 +38,5 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ituki1216&theme=gruvbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ituki1216&theme=gruvbox&utcOffset=9)
 
-## Trophy :trophy:
+Trophy :trophy:
 ![trophy](https://github-profile-trophy.vercel.app/?username=ituki1216&theme=gruvbox)
