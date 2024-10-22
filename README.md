@@ -5,7 +5,7 @@
 Check out my project: [Reword Project](https://reword-project-vm33.onrender.com)
 
 ## 💻 Skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,bootstrap,react,typescript,python,php,laravel,docker" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,bootstrap,react,typescript,python,php,laravel,docker,vscode,git,github" />
 <br>
 
 ## 🏃‍♀️ Activities
