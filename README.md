@@ -4,7 +4,8 @@
 ## 💻 Skills
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,bootstrap,react,typescript,python,php,laravel,docker" />
 <br>
-
+## 💡 My Project
+Check out my project: [Reword Project](https://reword-project-vm33.onrender.com)
 ## 🏃‍♀️ Activities
 <div align="left"> 
   <img alt="GitHub Stats" height="170px" src="https://github-readme-stats.vercel.app/api?username=ituki1216&show_icons=true&theme=radical" />
@@ -13,6 +14,3 @@
 
 ## 🏆 Trophy
 ![trophy](https://github-profile-trophy.vercel.app/?username=ituki1216&theme=vue-dark)
-
-## 💡 My Project
-Check out my project: [Reword Project](https://reword-project-vm33.onrender.com)
